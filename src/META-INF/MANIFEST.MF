@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Main-Class: com.Chengou.spider
+Class-Path: rxjava-2.2.21.jar httpcore5-reactive-5.2.jar rxjava-3.1.5.ja
+ r httpcore5-h2-5.2.jar httpclient5-testing-5.2.1.jar httpclient5-win-5.
+ 2.1.jar reactive-streams-1.0.4.jar commons-cli-1.5.0.jar jna-5.12.1.jar
+  httpclient5-5.2.1.jar httpclient5-fluent-5.2.1.jar httpcore5-5.2.jar h
+ ttpcore5-testing-5.2.jar httpclient5-cache-5.2.1.jar jna-platform-5.12.
+ 1.jar slf4j-api-1.7.36.jar jackson-core-2.12.0.jar mysql-connector-java
+ -8.0.11.jar jackson-databind-2.12.1.jar jackson-annotations-2.12.0.jar
+
